@@ -1,2 +1,2 @@
 # test
-Github is so fuckin cool
+Github is so cool
